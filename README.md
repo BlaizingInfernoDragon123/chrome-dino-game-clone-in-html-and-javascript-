@@ -16,6 +16,6 @@ BlazingInfernoDragon123 Channel
 Click Here To View It And Play It -
 <a href="https://www.chromedino.com/">
 ```
-Index.html
+Dino.html
 ```
 </a>
