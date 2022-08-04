@@ -6,14 +6,16 @@ BlazingInfernoDragon123@gmail.com
 ```
 </a>
 
-# Our YouTube Channel Link Plss subscribe -
+# Our YouTube Channel 
+Our YouTube Channel Link Plss subscribe -
 <a href="https://youtube.com/channel/UC94rjmYz21IBREgkLaQ7NVA">
 ```
 BlazingInfernoDragon123 Channel
 ```
 </a>
 
-# Click Here To View It And Play It -
+# Play It Online 
+Click Here To View It And Play It -
 <a href="https://www.chromedino.com/">
 ```
 Dino.html
