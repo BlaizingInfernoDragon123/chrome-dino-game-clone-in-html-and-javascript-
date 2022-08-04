@@ -13,8 +13,9 @@ BlazingInfernoDragon123 Channel
 ```
 </a>
 
-# Click Here To View It And Play It -
+# Play It here
 
+Click Here To View It And Play It -
 <a href="https://www.chromedino.com/">
 ```
 Dino.html
