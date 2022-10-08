@@ -3,7 +3,7 @@ Hello everyone u can use this but plss give credit to us Bcoz it's hard to code 
 
 # Live View Of The Webpage Link-
 View the webpage live here at github pages
-<a href="https://blaizinginfernodragon123.github.io/coming-soon-page-in-html-and-css-and-javascript-/">
+<a href="">
 ```
 https://blaizinginfernodragon123.github.io/coming-soon-page-in-html-and-css-and-javascript-/
 ```
@@ -127,6 +127,7 @@ Fun link.Click Down👇
 Click Here To View It And Play It -
 
 <a href="https://www.chromedino.com/">
+
 ```
 Dino.html
 ```
