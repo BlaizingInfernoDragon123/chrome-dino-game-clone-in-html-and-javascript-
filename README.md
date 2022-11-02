@@ -3,10 +3,13 @@ Hello everyone u can use this but plss give credit to us Bcoz it's hard to code 
 
 # Live View Of The Webpage Link-
 View the webpage live here at github pages
+
 <a href="https://blaizinginfernodragon123.github.io/chrome-dino-game-clone-in-html-and-javascript-/index.html">
+
 ```
 https://blaizinginfernodragon123.github.io/chrome-dino-game-clone-in-html-and-javascript-/index.html
 ```
+
 </a>
 
 # My patreon page check the post here-
@@ -52,10 +55,14 @@ Check SECURITY.md for more info or click here.
 </a>
 
 # My Email For Any Queries-
-- 📫 How to reach me ... U can reach me by mailing me at this email address just click once at the blue colored text - <a href="mailto:blazinginfernodragon123@gmail.com">
+- 📫 How to reach me ... U can reach me by mailing me at this email address just click once at the blue colored text - 
+
+<a href="mailto:blazinginfernodragon123@gmail.com">
+
 ```
 BlazingInfernoDragon123@gmail.com
 ```
+
 </a>
 
 `
